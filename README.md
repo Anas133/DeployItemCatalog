@@ -72,3 +72,4 @@ https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-applicati
 
 - The ip adderss is 167.99.98.64
 - And you can access the website through this URL : http://167.99.98.64.xip.io
+- The port used for ssh : 2200
